@@ -1,0 +1,74 @@
+station_id,station_name,city,area,latitude,longitude,charger_type,number_of_chargers,demand_tier
+ST1001,Connaught Place EV Hub 1001,Delhi,Connaught Place,28.67033,77.09194,AC Fast (7.4kW),6,low
+ST1002,Connaught Place EV Hub 1002,Delhi,Connaught Place,28.61289,77.15782,DC Ultra-Fast (150kW),3,moderate
+ST1003,Dwarka EV Hub 1003,Delhi,Dwarka,28.68153,77.23705,AC Fast (7.4kW),3,moderate
+ST1004,Dwarka EV Hub 1004,Delhi,Dwarka,28.55637,77.26171,AC Fast (7.4kW),7,moderate
+ST1005,Dwarka EV Hub 1005,Delhi,Dwarka,28.68725,77.19973,DC Fast (50kW),2,high
+ST1006,Dwarka EV Hub 1006,Delhi,Dwarka,28.64584,77.23093,DC Fast (50kW),5,high
+ST1007,Rohini EV Hub 1007,Delhi,Rohini,28.58952,77.17827,DC Fast (50kW),2,moderate
+ST1008,Rohini EV Hub 1008,Delhi,Rohini,28.60706,77.15859,AC Fast (7.4kW),3,high
+ST1009,Rohini EV Hub 1009,Delhi,Rohini,28.6585,77.24159,AC Fast (7.4kW),5,moderate
+ST1010,Saket EV Hub 1010,Delhi,Saket,28.62702,77.26129,DC Fast (50kW),5,high
+ST1011,Saket EV Hub 1011,Delhi,Saket,28.63125,77.24688,AC Slow (3.3kW),8,very_high
+ST1012,Saket EV Hub 1012,Delhi,Saket,28.58568,77.17067,DC Fast (50kW),2,moderate
+ST1013,Saket EV Hub 1013,Delhi,Saket,28.672,77.10803,AC Slow (3.3kW),5,moderate
+ST1014,Karol Bagh EV Hub 1014,Delhi,Karol Bagh,28.65657,77.2566,DC Fast (50kW),4,moderate
+ST1015,Karol Bagh EV Hub 1015,Delhi,Karol Bagh,28.66538,77.19752,AC Slow (3.3kW),7,moderate
+ST1016,Andheri EV Hub 1016,Mumbai,Andheri,19.10583,72.88625,AC Fast (7.4kW),7,very_high
+ST1017,Andheri EV Hub 1017,Mumbai,Andheri,19.11354,72.85914,DC Fast (50kW),2,moderate
+ST1018,Andheri EV Hub 1018,Mumbai,Andheri,19.05422,72.8548,DC Fast (50kW),4,high
+ST1019,Andheri EV Hub 1019,Mumbai,Andheri,19.07675,72.90654,DC Fast (50kW),4,high
+ST1020,Bandra EV Hub 1020,Mumbai,Bandra,19.0506,72.87292,DC Fast (50kW),3,high
+ST1021,Bandra EV Hub 1021,Mumbai,Bandra,18.99664,72.81787,AC Fast (7.4kW),5,very_high
+ST1022,Bandra EV Hub 1022,Mumbai,Bandra,19.15395,72.85632,DC Ultra-Fast (150kW),2,high
+ST1023,Powai EV Hub 1023,Mumbai,Powai,19.019,72.85736,DC Fast (50kW),5,high
+ST1024,Powai EV Hub 1024,Mumbai,Powai,19.10207,72.89196,AC Fast (7.4kW),5,high
+ST1025,Powai EV Hub 1025,Mumbai,Powai,19.04423,72.89166,AC Fast (7.4kW),5,moderate
+ST1026,Powai EV Hub 1026,Mumbai,Powai,19.06164,72.81629,DC Fast (50kW),5,moderate
+ST1027,Thane EV Hub 1027,Mumbai,Thane,19.12611,72.89911,AC Slow (3.3kW),6,moderate
+ST1028,Thane EV Hub 1028,Mumbai,Thane,19.02041,72.85431,AC Slow (3.3kW),5,high
+ST1029,Thane EV Hub 1029,Mumbai,Thane,19.06267,72.78945,AC Fast (7.4kW),5,moderate
+ST1030,Thane EV Hub 1030,Mumbai,Thane,19.1958,73.05253,AC Fast (7.4kW),5,very_high
+ST1031,Borivali EV Hub 1031,Mumbai,Borivali,19.09206,72.82892,DC Ultra-Fast (150kW),1,moderate
+ST1032,Borivali EV Hub 1032,Mumbai,Borivali,19.06755,72.94166,AC Fast (7.4kW),5,moderate
+ST1033,Borivali EV Hub 1033,Mumbai,Borivali,18.97552,72.84852,DC Fast (50kW),4,moderate
+ST1034,Borivali EV Hub 1034,Mumbai,Borivali,19.18208,72.88552,AC Fast (7.4kW),3,moderate
+ST1035,Whitefield EV Hub 1035,Bengaluru,Whitefield,12.91369,77.55109,DC Ultra-Fast (150kW),1,high
+ST1036,Whitefield EV Hub 1036,Bengaluru,Whitefield,12.91742,77.65049,AC Fast (7.4kW),4,low
+ST1037,Koramangala EV Hub 1037,Bengaluru,Koramangala,12.93231,77.62136,AC Fast (7.4kW),6,high
+ST1038,Koramangala EV Hub 1038,Bengaluru,Koramangala,12.89492,77.60496,AC Slow (3.3kW),7,moderate
+ST1039,Koramangala EV Hub 1039,Bengaluru,Koramangala,12.98875,77.67296,DC Fast (50kW),5,low
+ST1040,Koramangala EV Hub 1040,Bengaluru,Koramangala,13.03798,77.62033,DC Fast (50kW),5,moderate
+ST1041,Indiranagar EV Hub 1041,Bengaluru,Indiranagar,12.88951,77.69366,AC Fast (7.4kW),6,low
+ST1042,Indiranagar EV Hub 1042,Bengaluru,Indiranagar,13.05929,77.52818,DC Fast (50kW),5,high
+ST1043,Indiranagar EV Hub 1043,Bengaluru,Indiranagar,12.94792,77.59429,AC Fast (7.4kW),3,moderate
+ST1044,Indiranagar EV Hub 1044,Bengaluru,Indiranagar,12.97704,77.63324,AC Slow (3.3kW),9,high
+ST1045,Electronic City EV Hub 1045,Bengaluru,Electronic City,12.89847,77.54191,AC Slow (3.3kW),5,moderate
+ST1046,Electronic City EV Hub 1046,Bengaluru,Electronic City,12.89202,77.59644,DC Fast (50kW),4,moderate
+ST1047,Jayanagar EV Hub 1047,Bengaluru,Jayanagar,12.95194,77.65477,DC Ultra-Fast (150kW),1,high
+ST1048,Jayanagar EV Hub 1048,Bengaluru,Jayanagar,12.92984,77.58117,DC Fast (50kW),3,high
+ST1049,Jayanagar EV Hub 1049,Bengaluru,Jayanagar,12.90654,77.60003,DC Fast (50kW),5,moderate
+ST1050,Hinjewadi EV Hub 1050,Pune,Hinjewadi,18.46921,73.83946,DC Ultra-Fast (150kW),2,moderate
+ST1051,Hinjewadi EV Hub 1051,Pune,Hinjewadi,18.59275,73.81295,AC Fast (7.4kW),6,very_high
+ST1052,Hinjewadi EV Hub 1052,Pune,Hinjewadi,18.51064,73.79296,DC Fast (50kW),5,high
+ST1053,Hinjewadi EV Hub 1053,Pune,Hinjewadi,18.46779,73.85104,DC Fast (50kW),5,moderate
+ST1054,Kothrud EV Hub 1054,Pune,Kothrud,18.44315,73.79089,DC Fast (50kW),3,high
+ST1055,Kothrud EV Hub 1055,Pune,Kothrud,18.45011,73.83461,DC Fast (50kW),3,very_high
+ST1056,Kothrud EV Hub 1056,Pune,Kothrud,18.50568,73.90334,AC Slow (3.3kW),5,high
+ST1057,Viman Nagar EV Hub 1057,Pune,Viman Nagar,18.43791,73.84241,AC Fast (7.4kW),3,high
+ST1058,Viman Nagar EV Hub 1058,Pune,Viman Nagar,18.48708,73.88499,AC Slow (3.3kW),5,high
+ST1059,Viman Nagar EV Hub 1059,Pune,Viman Nagar,18.52359,73.85671,DC Fast (50kW),5,high
+ST1060,Viman Nagar EV Hub 1060,Pune,Viman Nagar,18.51456,73.98229,DC Fast (50kW),3,very_high
+ST1061,Baner EV Hub 1061,Pune,Baner,18.45366,73.92817,AC Fast (7.4kW),5,very_high
+ST1062,Baner EV Hub 1062,Pune,Baner,18.57605,73.88397,AC Slow (3.3kW),6,very_high
+ST1063,Baner EV Hub 1063,Pune,Baner,18.53622,73.85985,DC Ultra-Fast (150kW),3,low
+ST1064,Hitech City EV Hub 1064,Hyderabad,Hitech City,17.39415,78.57499,AC Slow (3.3kW),8,moderate
+ST1065,Hitech City EV Hub 1065,Hyderabad,Hitech City,17.40276,78.46439,AC Fast (7.4kW),6,moderate
+ST1066,Hitech City EV Hub 1066,Hyderabad,Hitech City,17.48864,78.39467,AC Fast (7.4kW),4,moderate
+ST1067,Gachibowli EV Hub 1067,Hyderabad,Gachibowli,17.32183,78.46663,AC Fast (7.4kW),4,high
+ST1068,Gachibowli EV Hub 1068,Hyderabad,Gachibowli,17.45564,78.51305,DC Ultra-Fast (150kW),3,moderate
+ST1069,Gachibowli EV Hub 1069,Hyderabad,Gachibowli,17.43468,78.46891,DC Fast (50kW),5,moderate
+ST1070,Kukatpally EV Hub 1070,Hyderabad,Kukatpally,17.3143,78.53364,AC Fast (7.4kW),6,moderate
+ST1071,Kukatpally EV Hub 1071,Hyderabad,Kukatpally,17.43005,78.59594,DC Fast (50kW),5,moderate
+ST1072,Kukatpally EV Hub 1072,Hyderabad,Kukatpally,17.38098,78.41638,AC Slow (3.3kW),4,low
+ST1073,Kukatpally EV Hub 1073,Hyderabad,Kukatpally,17.34306,78.42588,DC Fast (50kW),3,moderate

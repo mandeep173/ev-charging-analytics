@@ -1,0 +1,74 @@
+station_id,station_name,city,sessions
+ST1011,Saket Ev Hub 1011,Delhi,3299
+ST1016,Andheri Ev Hub 1016,Mumbai,3156
+ST1051,Hinjewadi Ev Hub 1051,Pune,3080
+ST1062,Baner Ev Hub 1062,Pune,3014
+ST1030,Thane Ev Hub 1030,Mumbai,3008
+ST1021,Bandra Ev Hub 1021,Mumbai,2856
+ST1061,Baner Ev Hub 1061,Pune,2824
+ST1055,Kothrud Ev Hub 1055,Pune,2625
+ST1060,Viman Nagar Ev Hub 1060,Pune,2521
+ST1044,Indiranagar Ev Hub 1044,Bengaluru,1730
+ST1037,Koramangala Ev Hub 1037,Bengaluru,1571
+ST1059,Viman Nagar Ev Hub 1059,Pune,1505
+ST1058,Viman Nagar Ev Hub 1058,Pune,1496
+ST1042,Indiranagar Ev Hub 1042,Bengaluru,1477
+ST1052,Hinjewadi Ev Hub 1052,Pune,1457
+ST1023,Powai Ev Hub 1023,Mumbai,1450
+ST1024,Powai Ev Hub 1024,Mumbai,1428
+ST1056,Kothrud Ev Hub 1056,Pune,1425
+ST1019,Andheri Ev Hub 1019,Mumbai,1399
+ST1010,Saket Ev Hub 1010,Delhi,1388
+ST1006,Dwarka Ev Hub 1006,Delhi,1371
+ST1028,Thane Ev Hub 1028,Mumbai,1365
+ST1067,Gachibowli Ev Hub 1067,Hyderabad,1359
+ST1020,Bandra Ev Hub 1020,Mumbai,1350
+ST1048,Jayanagar Ev Hub 1048,Bengaluru,1348
+ST1018,Andheri Ev Hub 1018,Mumbai,1345
+ST1054,Kothrud Ev Hub 1054,Pune,1298
+ST1057,Viman Nagar Ev Hub 1057,Pune,1296
+ST1008,Rohini Ev Hub 1008,Delhi,1292
+ST1005,Dwarka Ev Hub 1005,Delhi,1231
+ST1022,Bandra Ev Hub 1022,Mumbai,1129
+ST1047,Jayanagar Ev Hub 1047,Bengaluru,1116
+ST1035,Whitefield Ev Hub 1035,Bengaluru,1111
+ST1064,Hitech City Ev Hub 1064,Hyderabad,841
+ST1038,Koramangala Ev Hub 1038,Bengaluru,835
+ST1004,Dwarka Ev Hub 1004,Delhi,817
+ST1065,Hitech City Ev Hub 1065,Hyderabad,789
+ST1049,Jayanagar Ev Hub 1049,Bengaluru,776
+ST1015,Karol Bagh Ev Hub 1015,Delhi,772
+ST1013,Saket Ev Hub 1013,Delhi,766
+ST1025,Powai Ev Hub 1025,Mumbai,756
+ST1027,Thane Ev Hub 1027,Mumbai,754
+ST1070,Kukatpally Ev Hub 1070,Hyderabad,752
+ST1040,Koramangala Ev Hub 1040,Bengaluru,745
+ST1032,Borivali Ev Hub 1032,Mumbai,743
+ST1069,Gachibowli Ev Hub 1069,Hyderabad,734
+ST1071,Kukatpally Ev Hub 1071,Hyderabad,719
+ST1053,Hinjewadi Ev Hub 1053,Pune,710
+ST1029,Thane Ev Hub 1029,Mumbai,709
+ST1009,Rohini Ev Hub 1009,Delhi,707
+ST1014,Karol Bagh Ev Hub 1014,Delhi,701
+ST1045,Electronic City Ev Hub 1045,Bengaluru,695
+ST1046,Electronic City Ev Hub 1046,Bengaluru,691
+ST1026,Powai Ev Hub 1026,Mumbai,685
+ST1068,Gachibowli Ev Hub 1068,Hyderabad,680
+ST1002,Connaught Place Ev Hub 1002,Delhi,676
+ST1033,Borivali Ev Hub 1033,Mumbai,666
+ST1066,Hitech City Ev Hub 1066,Hyderabad,657
+ST1073,Kukatpally Ev Hub 1073,Hyderabad,645
+ST1043,Indiranagar Ev Hub 1043,Bengaluru,645
+ST1017,Andheri Ev Hub 1017,Mumbai,643
+ST1012,Saket Ev Hub 1012,Delhi,630
+ST1050,Hinjewadi Ev Hub 1050,Pune,622
+ST1034,Borivali Ev Hub 1034,Mumbai,616
+ST1003,Dwarka Ev Hub 1003,Delhi,604
+ST1007,Rohini Ev Hub 1007,Delhi,583
+ST1031,Borivali Ev Hub 1031,Mumbai,516
+ST1041,Indiranagar Ev Hub 1041,Bengaluru,328
+ST1001,Connaught Place Ev Hub 1001,Delhi,309
+ST1072,Kukatpally Ev Hub 1072,Hyderabad,279
+ST1039,Koramangala Ev Hub 1039,Bengaluru,274
+ST1036,Whitefield Ev Hub 1036,Bengaluru,268
+ST1063,Baner Ev Hub 1063,Pune,244
